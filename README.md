@@ -1,4 +1,4 @@
-# shellphish By Kighacker0
+# shellphish By Farz7
 
 Shellphish provide you popular social media phishing pages(1o+ custome) directly send link and grab crdentials.
 
