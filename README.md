@@ -20,4 +20,4 @@ Now select your option then turn on hotspot and wait until ngrok generate link f
 <h2>Educational Purpose</h2>
 This tool and every information provided by us is only for educational purpose and use on own risk!
 
-Credit :- The complete credit of this tool goes to #thelinuxchoice
+Credit :- The complete credit of this tool goes to #thelinuxchoice #kinghacker0
