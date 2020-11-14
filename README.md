@@ -4,7 +4,7 @@ Shellphish provide you popular social media phishing pages(1o+ custome) directly
 
 <h2>Installation</h2>
 
-$ git clone https://github.com/kinghacker0/shellphish
+$ git clone https://github.com/Farz7/shellphish.git
 
 $ cd shellphish
 
